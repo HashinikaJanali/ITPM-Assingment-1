@@ -4,9 +4,9 @@ This project has Playwright automated tests for https://www.swifttranslator.com/
 
 ## Tests Summary
 - Positive tests: 24 (all passed)
-- Negative tests: 10 (all passed)
+- Negative tests: 10 (all failed)
 - UI test: 1 (passed)
-- Total: 35 tests passed
+- Total: 25 tests passed and 10 tests failed
 
 ## How to Run
 
